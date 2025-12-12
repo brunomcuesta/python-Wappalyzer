@@ -3,17 +3,6 @@
 python-Wappalyzer
 -----------------
 
-.. image:: https://travis-ci.org/chorsley/python-Wappalyzer.svg?branch=master
-  :target: https://travis-ci.org/chorsley/python-Wappalyzer
-
-.. image:: https://badge.fury.io/py/python-Wappalyzer.svg
-  :target: https://pypi.org/project/python-Wappalyzer/
-
-.. image:: https://coveralls.io/repos/github/chorsley/python-Wappalyzer/badge.svg?branch=master
-  :target: https://coveralls.io/github/chorsley/python-Wappalyzer?branch=master
-
-
-
 Python implementation of the `Wappalyzer <https://github.com/AliasIO/wappalyzer>`_ web application detection utility.  
 
 
@@ -22,7 +11,7 @@ Install
 
 ::
 
-    $ pip install python-Wappalyzer
+    $ pip install git+https://github.com/brunomcuesta/python-Wappalyzer.git
 
 Require Python3.6 or later. 
 
