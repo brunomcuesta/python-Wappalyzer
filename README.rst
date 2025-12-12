@@ -1,4 +1,4 @@
-# This repository is a fork of the original project, replacing `pkg_resources` with `importlib` in the `wappalizer.py` file.
+# This repository is a fork of the original project, replacing ```pkg_resources``` with ```importlib``` in the Wappalizer.py file.
 
 python-Wappalyzer
 -----------------
