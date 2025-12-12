@@ -1,4 +1,4 @@
-# This repository is a fork of the original project, replacing ``pkg_resources`` with ``importlib`` in the Wappalyzer.py file. This replacement fixes the ``pkg_resources`` import error in Python 3.13 when running the code.
+# This repository is a fork of the original project, replacing ``pkg_resources`` with ``importlib`` in the Wappalyzer.py file. This replacement fixes the ``pkg_resources`` import error in Python 3.13 when running the code. For earlier versions of Python, such as version 3.6, the original project repository can be used.
 
 python-Wappalyzer
 -----------------
