@@ -1,4 +1,4 @@
-# This repo is no longer maintained and is archived. There are many forks available, however.
+# This repository is a fork of the original project, replacing `pkg_resources` with `importlib` in the `wappalizer.py` file.
 
 python-Wappalyzer
 -----------------
